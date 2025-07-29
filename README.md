@@ -9,7 +9,7 @@ The project also includes a simple **Graphical User Interface (GUI)** to allow u
 
 ---
 
-## 🧠 Features & Objectives
+##  Features & Objectives
 
 - Build and train a CNN on traffic sign image data
 - Achieve high classification accuracy across 43 categories
